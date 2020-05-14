@@ -1,38 +1,5 @@
 [
-  {
-    "phone": "+375 1795 6-40-40",
-    "work_time": "С 11:00 до 23:00\nПТ - СБ с 11:00 до 02:00",
-    "url": "https://slutsk.pizzasmile.by",
-    "imageUrl": "https://www.slivki.by/znijki-media/w522_322/default/1009921/slivki-pizza-mogilev-skidka-pizza-smile-1.jpg",
-    "service": "Пицца, суши, напитки",
-    "title": "Pizza Smile"
-  },
-
-  {
-    "phone": "+375 33 602-65-65",
-    "work_time": "Заказы принимаются до 22:00",
-    "url": "vk.com/hochusushislutsk",
-    "imageUrl": "https://s13.stc.all.kpcdn.net/share/i/12/10718659/inx960x640.jpg",
-    "service": "Суши, Роллы, Гарниры",
-    "title": "Хочу-Суши"
-  },
-  {
-    "phone": "+375 44 766-70-70",
-    "work_time": "Прием заказов:\nВс - Чт: 11:00 - 22:00\nПт - Сб: 11:00 - 23:00",
-    "url": "sushigo.by/sluck",
-    "imageUrl": "https://sushigo.by/sites/default/files/images/product/rolly_sushigo.jpg",
-    "service": "Пицца, суши, ролы",
-    "title": "Сорренто"
-  },
-
-  {
-    "phone": "+375 44 593-09-99",
-    "work_time": "Прием заказов: 12:00 - 24:00",
-    "url": "vk.com/club55286676",
-    "imageUrl": "https://bonduelle.ru/upload/iblock/22b/550b40291e0a0.jpg",
-    "service": "Пицца, суши, блюда по основному меню кафе-пиццерии",
-    "title": "Сорренто"
-  },
+  
   {
     "phone": "+375 29 370-78-71",
     "work_time": "Прием заказов: Пн - чт: 11:00 - 22:45,\n Пт,Сб 11:00 - 02:00\n Вс 11:00 - 24:00\nДоставка от 20 р по городу бесплатная",
@@ -56,14 +23,6 @@
     "imageUrl": "https://cdn.pixabay.com/photo/2015/03/26/10/43/bouquet-691862_1280.jpg",
     "service": "Доставка бесплатно",
     "title": "Цветы в слуцке"
-  },
-  {
-    "phone": "+375 33 696-64-64",
-    "work_time": "Заказы принимаются до 22:00\nБесплатная доставка, при заказе от 20 рублей.",
-    "url": "vk.com/hochupizzuslutsk",
-    "imageUrl": "https://cdn.pixabay.com/photo/2018/12/12/13/04/pizza-3870780_1280.jpg",
-    "service": "Пицца, Роллы",
-    "title": "Хочу-Пиццу"
   }
 
 ]
