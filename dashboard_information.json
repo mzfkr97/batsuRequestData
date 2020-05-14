@@ -1,0 +1,47 @@
+[
+{
+
+    "title": "Материалы для подготовки",
+    "description": "Учебные материалы для самостоятельного изучения и подготовки будут доступны по ссылке ниже. Логин и пароль - номер Вашего студенческого билета",
+    "time": "09 Апреля 2020",
+    "image_url": "http://www.bsatu.by/sites/default/files/field/galereya_foto/ulk4_0.jpg",
+    "web_link": "https://moodle.bsatu.by/mod/forum/discuss.php?d=140",
+    "hex": 2
+  },
+  {
+
+    "title": "Расписание занятий",
+    "description": "Актуальное расписание занятий можно скачать и уточнить по ссылке на сайте института.\nГлавная > Факультеты > Факультет предпринимательства и управления > Доска объявлений\nСсылка на расписание в описании ",
+    "time": "14 Марта 2020",
+    "image_url": "",
+    "web_link": "http://www.bsatu.by/ru/fakultety/fakultet-predprinimatelstva-i-upravleniya",
+    "hex": 2
+  },
+  {
+    "title": "Сесси на 2020 год",
+    "description":  "1 Семестр:\n06 апреля - 18 апреля\n\n2 Семестр:\n21 сентября - 03 октября\nграфик сессий на 2020 год доступен по ссылке ниже",
+    "time": "14 Марта 2020",
+    "image_url": "",
+    "web_link": "http://www.bsatu.by/sites/default/files/field/uo_files/grfpuzaochnoedlyapodpisi2020bezpraktik.pdf",
+    "hex": 2
+  }
+  ,
+  {
+    "title": "Стоимость обучения",
+    "description":  "Стоимость обучения по заочной форме получения образования 886 белорусских рублей.\nПервый этап - до 5 января – 443 (четыреста сорок три белорусских рубля);\nВторой этап - до 5 июля – 443 (четыреста сорок три белорусских рубля).\nОплату за обучение можно произвести в любом учреждении банка Республики Беларусь, инфокиоске или через интернет по системе «Расчет» с указанием города Минска, учреждения образования (БГАТУ) и номера зачетной книжки.",
+    "time": "14 Марта 2020",
+    "image_url": "http://www.bsatu.by/sites/default/files/field/galereya_foto/ulk1.jpg",
+    "web_link": "http://www.bsatu.by/ru/fakultety/fakultet-predprinimatelstva-i-upravleniya",
+    "hex": 2
+  }
+  ,
+  {
+
+    "title": "Факультет предпринимательства\nи управления",
+    "description":  "Адрес:\n220023, г. Минск, пр. Независимости, 99, корп.1,\nкаб. 411, 413, 414\nТелефон: +375 (17) 323-42-46 дневной деканат\nТелефон: +375 (17) 377-51-25 заочный деканат",
+    "image_url": "http://www.bsatu.by/sites/default/files/field/galereya_foto/ulk4_0.jpg",
+    "web_link": "http://www.bsatu.by/ru/fakultety/fakultet-predprinimatelstva-i-upravleniya",
+    "hex": 2
+  }
+  
+]

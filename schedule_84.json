@@ -1,0 +1,35 @@
+[
+
+  {
+    "day": "Вторник",
+    "date": "14 Апреля",
+    "lessons": [
+      {
+        "count": "84",
+        "lesson_name": "Расписание временно не доступно. ",
+        "lesson_type": " ",
+        "teacher_surname": " "
+      },
+      {
+        "count": "",
+        "lesson_name": "  ",
+        "lesson_type": " ",
+        "teacher_surname": " "
+      },
+       {
+        "count": "",
+        "lesson_name": " ",
+        "lesson_type": " ",
+        "teacher_surname": " "
+      },
+       {
+        "count": "",
+        "lesson_name": " ",
+        "lesson_type": " ",
+        "teacher_surname": " "
+      
+      }
+    ]
+  }
+
+]
