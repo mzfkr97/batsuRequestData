@@ -1,32 +1,32 @@
 [
 
-  {
+ {
     "day": "Среда",
     "date": "20 Мая",
     "lessons": [
       {
-        "count": "82",
-        "lesson_name": "Расписание временно не доступно. ",
-        "lesson_type": " ",
-        "teacher_surname": " "
+        "count": "1",
+        "lesson_name": "Высшая математика ",
+        "lesson_type": "Теория",
+        "teacher_surname": "Иванов И.И."
       },
       {
-        "count": "",
-        "lesson_name": "  ",
-        "lesson_type": " ",
-        "teacher_surname": " "
+        "count": "2",
+        "lesson_name": "Экономическая теория",
+        "lesson_type": "Зачет",
+        "teacher_surname": "Григорьева З.И."
       },
        {
-        "count": "",
-        "lesson_name": " ",
-        "lesson_type": " ",
-        "teacher_surname": " "
+        "count": "3",
+        "lesson_name": "Информационные технологии",
+        "lesson_type": "Кочетова И.С.",
+        "teacher_surname": "Практика"
       },
        {
-        "count": "",
-        "lesson_name": " ",
-        "lesson_type": " ",
-        "teacher_surname": " "
+        "count": "4",
+        "lesson_name": "Теория права ",
+        "lesson_type": "Лабораторная работа",
+        "teacher_surname": "Сидловкий Г.А."
       
       }
     ]
