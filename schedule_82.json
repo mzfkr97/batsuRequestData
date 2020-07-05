@@ -1,35 +1,34 @@
-[
-
- {
-    "day": "Среда",
-    "date": "20 Мая",
-    "lessons": [
-      {
-        "count": "1",
-        "lesson_name": "Высшая математика ",
-        "lesson_type": "Теория",
-        "teacher_surname": "Иванов И.И."
-      },
-      {
-        "count": "2",
-        "lesson_name": "Экономическая теория",
-        "lesson_type": "Зачет",
-        "teacher_surname": "Григорьева З.И."
-      },
-       {
-        "count": "3",
-        "lesson_name": "Информационные технологии",
-        "lesson_type": "Кочетова И.С.",
-        "teacher_surname": "Практика"
-      },
-       {
-        "count": "4",
-        "lesson_name": "Теория права ",
-        "lesson_type": "Лабораторная работа",
-        "teacher_surname": "Сидловкий Г.А."
-      
-      }
-    ]
+[ {
+  "date" : "12 Июня",
+  "dayOfYear" : 189,
+  "day" : "Четверг",
+  "lessons" : [ {
+    "count" : "1",
+    "lesson_name" : "Высшая математика",
+    "lesson_time" : "08:15 - 09:00\n09:05 - 09:50",
+    "lesson_type" : "Теория",
+    "teacher_surname" : "Иванов И.И."
+  }, {
+    "count" : "2",
+    "lesson_name" : "Экономическая теория",
+    "lesson_time" : "08:15 - 09:00\n09:05 - 09:50",
+    "lesson_type" : "Зачет",
+    "teacher_surname" : "Григорьева З.И."
+  }, {
+    "count" : "3",
+    "lesson_name" : "Информационные технологии",
+    "lesson_time" : "08:15 - 09:00\n09:05 - 09:50",
+    "lesson_type" : "Практика",
+    "teacher_surname" : "Кочетова И.С."
+  }, {
+    "count" : "4",
+    "lesson_name" : "Теория права",
+    "lesson_time" : "08:15 - 09:00\n09:05 - 09:50",
+    "lesson_type" : "Лабораторная работа",
+    "teacher_surname" : "Сидловкий Г.А."
   }
 
+  ],
+  "annotation" : "После второго занятия собрание в актовом зале. Явка обязательна!"
+}
 ]
